@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bleryoun.github.io/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/app/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/assets/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/css/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/includes/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/item/sitemap.html.gz
+Sitemap: https://bleryoun.github.io/src/sitemap.html.gz
